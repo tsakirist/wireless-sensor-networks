@@ -1,0 +1,256 @@
+* Topology: chain_25
+* Simulation has run for 60 simulated seconds
+
+
+i)The actual per-node transmissions:
+
+Node 0	transmitted 61	packets
+Node 1	transmitted 61	packets
+Node 2	transmitted 61	packets
+Node 3	transmitted 61	packets
+Node 4	transmitted 61	packets
+Node 5	transmitted 61	packets
+Node 6	transmitted 61	packets
+Node 7	transmitted 61	packets
+Node 8	transmitted 61	packets
+Node 9	transmitted 61	packets
+Node 10	transmitted 61	packets
+Node 11	transmitted 61	packets
+Node 12	transmitted 61	packets
+Node 13	transmitted 61	packets
+Node 14	transmitted 61	packets
+Node 15	transmitted 61	packets
+Node 16	transmitted 61	packets
+Node 17	transmitted 61	packets
+Node 18	transmitted 61	packets
+Node 19	transmitted 61	packets
+Node 20	transmitted 61	packets
+Node 21	transmitted 61	packets
+Node 22	transmitted 60	packets
+Node 23	transmitted 60	packets
+Node 24	transmitted 60	packets
+Node 25	transmitted 60	packets
+
+
+ii)The total number of transmissions:
+
+Total transmissions: 1582
+
+
+iii)The average per-node transmissions(%):
+
+Node 0	percentage: 3.9%
+Node 1	percentage: 3.9%
+Node 2	percentage: 3.9%
+Node 3	percentage: 3.9%
+Node 4	percentage: 3.9%
+Node 5	percentage: 3.9%
+Node 6	percentage: 3.9%
+Node 7	percentage: 3.9%
+Node 8	percentage: 3.9%
+Node 9	percentage: 3.9%
+Node 10	percentage: 3.9%
+Node 11	percentage: 3.9%
+Node 12	percentage: 3.9%
+Node 13	percentage: 3.9%
+Node 14	percentage: 3.9%
+Node 15	percentage: 3.9%
+Node 16	percentage: 3.9%
+Node 17	percentage: 3.9%
+Node 18	percentage: 3.9%
+Node 19	percentage: 3.9%
+Node 20	percentage: 3.9%
+Node 21	percentage: 3.9%
+Node 22	percentage: 3.8%
+Node 23	percentage: 3.8%
+Node 24	percentage: 3.8%
+Node 25	percentage: 3.8%
+
+
+iv)The coverage (number of nodes that received a given message):
+
+Node 8:
+Packet seq --> #nodes
+	
+	0	-->	25	|	1	-->	25	|	2	-->	25	|	3	-->	25	|	4	-->	25	|	
+	5	-->	25	|	6	-->	25	|	7	-->	25	|	8	-->	25	|	9	-->	25	|	
+	10	-->	25	|	11	-->	25	|	12	-->	25	|	13	-->	25	|	14	-->	25	|	
+	15	-->	25	|	16	-->	25	|	17	-->	25	|	18	-->	25	|	19	-->	25	|	
+	20	-->	25	|	21	-->	25	|	22	-->	25	|	23	-->	25	|	24	-->	25	|	
+	25	-->	25	|	26	-->	25	|	27	-->	25	|	28	-->	25	|	29	-->	25	|	
+	30	-->	25	|	31	-->	25	|	32	-->	25	|	33	-->	25	|	34	-->	25	|	
+	35	-->	25	|	36	-->	25	|	37	-->	25	|	38	-->	25	|	39	-->	25	|	
+	40	-->	25	|	41	-->	25	|	42	-->	25	|	43	-->	25	|	44	-->	25	|	
+	45	-->	25	|	46	-->	25	|	47	-->	25	|	48	-->	25	|	49	-->	25	|	
+	50	-->	25	|	51	-->	25	|	52	-->	25	|	53	-->	25	|	54	-->	25	|	
+	55	-->	25	|	56	-->	25	|	57	-->	25	|	58	-->	25	|	59	-->	25	|	
+	60	-->	22	|	
+
+
+v)Minimum, average, maximum message latency(ms):
+
+Node 8:
+Packet 	-->   min,		   avg,		   max
+	0	-->	1.541139,	219.846173,	476.043705
+
+	1	-->	7.064788,	211.103494,	507.278435
+
+	2	-->	3.356924,	205.054296,	493.087735
+
+	3	-->	8.285484,	196.353122,	484.802227
+
+	4	-->	4.882794,	192.537818,	427.413909
+
+	5	-->	3.036492,	197.573221,	442.886344
+
+	6	-->	6.042456,	145.590187,	413.040133
+
+	7	-->	5.828834,	202.164895,	493.43872
+
+	8	-->	10.070752,	213.469212,	608.779894
+
+	9	-->	6.22556,	209.03745,	617.019609
+
+	10	-->	9.551957,	214.965183,	523.757905
+
+	11	-->	1.327517,	207.161846,	415.969849
+
+	12	-->	7.842982,	296.963482,	694.519048
+
+	13	-->	9.246783,	182.249121,	535.26305
+
+	14	-->	10.284374,	208.923318,	490.783643
+
+	15	-->	9.246783,	237.675754,	552.20027
+
+	16	-->	6.851167,	180.720197,	414.672826
+
+	17	-->	2.624507,	218.272074,	489.105198
+
+	18	-->	7.614102,	193.433206,	467.758174
+
+	19	-->	3.64684,	198.732281,	503.189086
+
+	20	-->	5.828834,	178.983745,	462.783769
+
+	21	-->	9.201006,	197.121561,	459.045399
+
+	22	-->	3.387442,	182.473123,	463.073696
+
+	23	-->	1.602174,	169.384128,	478.317217
+
+	24	-->	8.331261,	179.018534,	439.025853
+
+	25	-->	1.602174,	207.367536,	504.913291
+
+	26	-->	4.989605,	192.621429,	513.076769
+
+	27	-->	7.842982,	158.79148,	400.314332
+
+	28	-->	9.62825,	194.597755,	458.496057
+
+	29	-->	8.865315,	228.181737,	552.200281
+
+	30	-->	1.342776,	199.799783,	512.802078
+
+	31	-->	5.264262,	209.557474,	496.475201
+
+	32	-->	6.10349,	236.085178,	538.955667
+
+	33	-->	1.312259,	219.581283,	514.434799
+
+	34	-->	1.922607,	192.731307,	477.783208
+
+	35	-->	4.22667,	187.58787,	451.370204
+
+	36	-->	3.158561,	192.686126,	471.008271
+
+	37	-->	9.9792,		226.043673,	514.434771
+
+	38	-->	7.827723,	190.780005,	459.304808
+
+	39	-->	7.553067,	172.757541,	430.389378
+
+	40	-->	2.47192,	181.454446,	480.773879
+
+	41	-->	2.090452,	241.669287,	587.936362
+
+	42	-->	11.550846,	195.045136,	449.523913
+
+	43	-->	7.385221,	219.224826,	475.448598
+
+	44	-->	7.522549,	189.652688,	467.925991
+
+	45	-->	7.888758,	220.937484,	557.739229
+
+	46	-->	4.043566,	210.409525,	461.227382
+
+	47	-->	3.982531,	213.088357,	499.572757
+
+	48	-->	5.996679,	187.557349,	370.315534
+
+	49	-->	1.159672,	177.979715,	460.281354
+
+	50	-->	2.395626,	171.708357,	430.221538
+
+	51	-->	5.722023,	223.002294,	555.450418
+
+	52	-->	6.805391,	201.154765,	503.82994
+
+	53	-->	2.319333,	219.929789,	583.679184
+
+	54	-->	2.761835,	190.275855,	490.142801
+
+	55	-->	7.644619,	174.858985,	419.845536
+
+	56	-->	7.186858,	178.449682,	434.188834
+
+	57	-->	3.570546,	192.203957,	372.207624
+
+	58	-->	7.430997,	231.580784,	581.069918
+
+	59	-->	1.358035,	189.273047,	454.208368
+
+	60	-->	4.653914,	155.117362,	400.558454
+
+Total 	--> 1.159672,	200.205759,	694.519048
+
+System Total:
+	min: 1.159672
+	avg: 200.205759
+	max: 694.519048
+
+
+vi)The actual per-node dropped packets:
+
+Node 0	has 0	dropped packets
+Node 1	has 61	dropped packets
+Node 2	has 61	dropped packets
+Node 3	has 61	dropped packets
+Node 4	has 61	dropped packets
+Node 5	has 61	dropped packets
+Node 6	has 61	dropped packets
+Node 7	has 61	dropped packets
+Node 8	has 120	dropped packets
+Node 9	has 61	dropped packets
+Node 10	has 61	dropped packets
+Node 11	has 61	dropped packets
+Node 12	has 61	dropped packets
+Node 13	has 61	dropped packets
+Node 14	has 61	dropped packets
+Node 15	has 61	dropped packets
+Node 16	has 61	dropped packets
+Node 17	has 61	dropped packets
+Node 18	has 61	dropped packets
+Node 19	has 61	dropped packets
+Node 20	has 61	dropped packets
+Node 21	has 60	dropped packets
+Node 22	has 60	dropped packets
+Node 23	has 60	dropped packets
+Node 24	has 60	dropped packets
+Node 25	has 0	dropped packets
+
+
+vii)The total number of dropped packets:
+
+Total dropped packets: 1519

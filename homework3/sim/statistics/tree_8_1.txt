@@ -1,0 +1,188 @@
+* Topology: tree_8
+* Simulation has run for 400 simulated seconds
+
+
+i)The actual per-node transmissions:
+
+Node 0	transmitted 10	packets
+Node 1	transmitted 35	packets
+Node 2	transmitted 34	packets
+Node 3	transmitted 32	packets
+Node 4	transmitted 21	packets
+Node 5	transmitted 32	packets
+Node 6	transmitted 21	packets
+Node 7	transmitted 21	packets
+Node 8	transmitted 21	packets
+
+
+ii)The total number of transmissions:
+
+Total transmissions: 227
+
+
+iii)Query Results:
+
+Started waiting for results @ 0:0:9.765625010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 
+Number of nodes that contributed to the results: 1
+Finished waiting for results @ 0:0:9.787536609
+
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 
+Number of nodes that contributed to the results: 1
+Finished waiting for results @ 0:0:9.793991124
+
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 
+Number of nodes that contributed to the results: 1
+Finished waiting for results @ 0:0:9.794906571
+
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 
+Number of nodes that contributed to the results: 1
+Finished waiting for results @ 0:0:9.801086420
+
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 
+Number of nodes that contributed to the results: 1
+Finished waiting for results @ 0:0:9.812042261
+
+Started waiting for results @ 0:0:19.531250010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:0:19.677734385
+
+Started waiting for results @ 0:0:29.296875010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:0:29.443359385
+
+Started waiting for results @ 0:0:39.062500010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:0:39.208984385
+
+Started waiting for results @ 0:0:48.828125010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:0:48.974609385
+
+Started waiting for results @ 0:0:58.593750010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:0:58.740234385
+
+Started waiting for results @ 0:1:8.359375010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:8.505859385
+
+Started waiting for results @ 0:1:18.125000010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:18.271484385
+
+Started waiting for results @ 0:1:27.890625010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:28.037109385
+
+Started waiting for results @ 0:1:37.656250010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:37.802734385
+
+Started waiting for results @ 0:1:47.421875010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:47.568359385
+
+Started waiting for results @ 0:1:57.187500010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:1:57.333984385
+
+Started waiting for results @ 0:2:6.953125010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:7.099609385
+
+Started waiting for results @ 0:2:16.718750010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:16.865234385
+
+Started waiting for results @ 0:2:26.484375010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:26.630859385
+
+Started waiting for results @ 0:2:36.250000010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:36.396484385
+
+Started waiting for results @ 0:2:46.015625010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:46.162109385
+
+Started waiting for results @ 0:2:55.781250010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:2:55.927734385
+
+Started waiting for results @ 0:3:5.546875010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 30, 30, 30, 30, 30, 30, 30, 30, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:3:5.693359385
+
+Started waiting for results @ 0:3:15.312500010
+PRINTING QUERY RESULTS!
+Period: 10, Type: 0, Mode: PIGGYBACK
+Values: 50, 50, 50, 50, 50, 50, 50, 50, 
+Number of nodes that contributed to the results: 8
+Finished waiting for results @ 0:3:15.458984385
+
