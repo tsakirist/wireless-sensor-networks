@@ -1,4 +1,5 @@
-# Assignment 3
+# Stage 3
+
 ### Description
 
 Provide support for **periodic, long-lived sensor measurement queries** in the wireless sensor network.
